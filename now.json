@@ -1,17 +1,4 @@
 {
     "name": "emotes",
-    "alias": ["emotes.guac.live"],
-    "static": {
-      "headers": [
-        {
-          "source": "**",
-          "headers": [
-            {
-              "key": "Access-Control-Allow-Origin",
-              "value": "*"
-            }
-          ]
-        }
-      ]
-    }
+    "alias": ["emotes.guac.live"]
   }
