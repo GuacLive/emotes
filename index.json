@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Global",
+        "directory": "global",
+        "default": true,
+        "authors": [
+            "Copyright 2019 guac.live <https://guac.live>"
+        ]
+    },
+    {
+        "name": "Twitch",
+        "directory": "twitch",
+        "default": true,
+        "authors": [
+            "Copyright 2019 Twitch Interactive <https://twitch.tv>"
+        ]
+    }
+]
