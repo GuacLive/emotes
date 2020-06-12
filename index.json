@@ -14,5 +14,11 @@
         "authors": [
             "Copyright 2019 Twitch Interactive <https://twitch.tv>"
         ]
+    },
+    {
+        "name": "Tappelino",
+        "directory": "tappelino",
+        "default": false,
+        "authors": []
     }
 ]
