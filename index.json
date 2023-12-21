@@ -1,24 +1,20 @@
 [
-    {
-        "name": "Global",
-        "directory": "global",
-        "default": true,
-        "authors": [
-            "Copyright 2019 guac.live <https://guac.live>"
-        ]
-    },
-    {
-        "name": "Twitch",
-        "directory": "twitch",
-        "default": true,
-        "authors": [
-            "Copyright 2019 Twitch Interactive <https://twitch.tv>"
-        ]
-    },
-    {
-        "name": "Tappelino",
-        "directory": "tappelino",
-        "default": false,
-        "authors": []
-    }
+  {
+    "name": "Global",
+    "directory": "global",
+    "default": true,
+    "authors": ["Copyright 2023 guac.tv <https://guac.tv>"]
+  },
+  {
+    "name": "Twitch",
+    "directory": "twitch",
+    "default": true,
+    "authors": ["Copyright 2023 Twitch Interactive <https://twitch.tv>"]
+  },
+  {
+    "name": "Tappelino",
+    "directory": "tappelino",
+    "default": false,
+    "authors": []
+  }
 ]
